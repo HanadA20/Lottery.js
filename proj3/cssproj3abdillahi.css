@@ -1,0 +1,35 @@
+
+  body {
+    width: 65%;
+    margin: 80px auto;
+    padding: 40px;
+    position: relative; 
+    border: 12px solid #d82121;
+    border: 7px solid rgba(0,0,200,.5);
+    background: #bdfffa;
+    background-clip: padding-box;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5);
+  }
+
+  h1 {
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 22px;
+  }
+
+  p {
+        font-size: 18px;
+  }
+
+.lottoPicks {color: black;}
+
+.guessField1, .guessField2, .guessField3, .guessField4, .guessField5{
+
+    width: 40px;
+  height: 20px;
+  border: 1px solid black;
+    
+
+}
+
+
+
